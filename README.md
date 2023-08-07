@@ -1,23 +1,24 @@
 ## Hi there, my name is Tri 👋
-About myself, I am highly interested in web development and aim to be an experienced fullstack web developer. I have work experience in front-end technologies and currently learning more about back end. Learning and coding makes my life more interesting and challenging, that's why I consistently set future goals for myself to keep moving forward.
+About myself, I am highly interested in web development and aim to be an experienced fullstack web developer. I have experience working with frontend technologies and currently learning more about back end. Learning and coding makes my life more interesting and challenging, that's why I consistently set future goals for myself to keep moving forward.
 
 ## My Tech Stack:
 
 ### Front end:
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="/icons/html.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/icons/css.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="/icons/react.png" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="/icons/redux.png" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="/icons/typescript.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/"> <img src="/icons/html.png" alt="html5" height="40"/> </a>
+<a href="https://www.w3schools.com/css/"> <img src="/icons/css.png" alt="css3" height="40"/> </a>
+<a href="https://www.w3schools.com/js/"> <img src="/icons/javascript.png" alt="javascript" height="40"/> </a>
+<a href="https://reactjs.org/"> <img src="/icons/react.png" alt="react" height="40"/> </a>
+<a href="https://redux.js.org"> <img src="/icons/redux.png" alt="redux" height="40"/> </a>
+<a href="https://www.typescriptlang.org/"> <img src="/icons/typescript.png" alt="typescript" height="40"/> </a>
+<a href="https://graphql.org"> <img src="/icons/graphql.png" alt="typescript" height="40"/> </a>
 
 ### Back end:
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="/icons/nodejs.png" alt="expressJS" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="/icons/express.png" alt="expressJS" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en"> <img src="/icons/nodejs.png" alt="nodeJS" height="40"/> </a>
+<a href="https://expressjs.com"> <img src="/icons/expressjs.png" alt="expressJS" height="40"/> </a>
 
 ### Database:
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="./icons/mongodb.png" alt="mongoDB" width="40" height="40"/></a>
-<a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="/icons/mongoose.png" alt="mongooseJS" width="40" height="40"/></a>
+<a href="https://www.mongodb.com"> <img src="./icons/mongodb.png" alt="mongoDB" height="40"/></a>
+<a href="https://mongoosejs.com"> <img src="/icons/mongoose.png" alt="mongooseJS" height="40"/></a>
 
 </p>
 
