@@ -6,9 +6,9 @@ About myself, I am highly interested in web development and aim to be an experie
 ### Front end:
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="/icons/html.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/icons/css.png" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="/icons/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="/icons/redux.png" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="/icons/typescript.png" alt="typescript" width="40" height="40"/> </a>
 
 ### Back end:
