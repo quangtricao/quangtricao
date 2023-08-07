@@ -14,7 +14,7 @@ About myself, I am highly interested in web development and aim to be an experie
 
 ### Back end:
 <a href="https://nodejs.org/en"> <img src="/icons/nodejs.png" alt="nodeJS" height="40"/> </a>
-<a href="https://expressjs.com"> <img src="/icons/expressjs.png" alt="expressJS" height="40"/> </a>
+<a href="https://expressjs.com"> <img src="/icons/express-js.png" alt="expressJS" height="40"/> </a>
 
 ### Database:
 <a href="https://www.mongodb.com"> <img src="./icons/mongodb.png" alt="mongoDB" height="40"/></a>
